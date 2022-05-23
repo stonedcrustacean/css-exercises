@@ -1,0 +1,18 @@
+.p-element {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.cool-p-element {
+    font-size:36px;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
