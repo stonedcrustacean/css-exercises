@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align:center;
 }
 
 img {
@@ -12,38 +13,48 @@ img {
   font-weight: 900;
   display:flex;
   justify-content:center;
+  margin-bottom: 32px;
   
 }
 .sectiondiv {
   display:flex;
   justify-content:space-evenly;
   flex-wrap:wrap;
+  justify-content:center;
+  gap: 52px;
+  align-items:baseline;
+  
+  
   
 }
 
 .do {
   display:flex;
   flex-wrap:wrap;
-  width:250px;
-
+  width:200px;
+  justify-content: center;
+  
 }
 
 .i{
   display:flex;
   flex-wrap:wrap;
-  width:250px;
+  width:200px;
+  justify-content: center;
 
 }
 .seriously {
   display:flex;
   flex-wrap:wrap;
-  width:250px;
+  width:200px;
+  justify-content: center;
 }
 
 .have {
   display:flex;
   flex-wrap:wrap;
-  width:250px;
+  width:200px;
+  justify-content: center;
 }
 
 
