@@ -12,19 +12,39 @@ img {
   font-weight: 900;
   display:flex;
   justify-content:center;
+  
 }
-/* .sectiondiv {
+.sectiondiv {
   display:flex;
+  justify-content:space-evenly;
+  flex-wrap:wrap;
   
 }
 
-.sectiondiv, .sectiontext {
-  flex:1;
-  padding:10px;
-  flex-direction: column;
+.do {
+  display:flex;
+  flex-wrap:wrap;
+  width:250px;
 
-} */
+}
 
+.i{
+  display:flex;
+  flex-wrap:wrap;
+  width:250px;
+
+}
+.seriously {
+  display:flex;
+  flex-wrap:wrap;
+  width:250px;
+}
+
+.have {
+  display:flex;
+  flex-wrap:wrap;
+  width:250px;
+}
 
 
 /* do not edit this footer */
