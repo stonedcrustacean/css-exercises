@@ -13,10 +13,16 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display:flex;
+<<<<<<< HEAD
   flex-direction: row;
   align-items: center;
   flex: 1;
   
+=======
+  padding:8px; 
+  align-items: center;
+  justify-content:space-between;
+>>>>>>> 470c86eb0d99cdcbcb9a8795e08fb5a34a87f3d2
 
 }
 
@@ -36,7 +42,33 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+<<<<<<< HEAD
   margin:0px 8px;
+=======
+  display:flex;
+  
+}
+
+.links {
+  display:flex;
+  align-items:flex-start;
+  justify-content:flex-start;
+  /* margin-right:auto; */
+  
+
+}
+.right-links {
+  display:flex;
+  align-items: flex-end;
+  justify-content:space-around;
+  margin-left:auto;
+  
+}
+
+.notifications {
+  display:flex;
+  /* margin-bottom: 8px; */
+>>>>>>> 470c86eb0d99cdcbcb9a8795e08fb5a34a87f3d2
 }
 
 button {
@@ -44,10 +76,16 @@ button {
   border-radius: 8px;
   background: rebeccapurple;
   color: white;
+<<<<<<< HEAD
   padding: 8px 24px;
   display:flex;
   
+=======
+  padding: 12px 24px;
+  margin:5px;
+>>>>>>> 470c86eb0d99cdcbcb9a8795e08fb5a34a87f3d2
 }
+
 
 a {
   /* this removes the line under our links */
@@ -58,6 +96,12 @@ a {
 ul {
   list-style-type: none;
   display:flex;
+<<<<<<< HEAD
   gap:20px;
+=======
+  gap:10px;
+  margin:0px;
+  
+>>>>>>> 470c86eb0d99cdcbcb9a8795e08fb5a34a87f3d2
   
 }
